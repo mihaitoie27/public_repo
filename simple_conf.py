@@ -5,6 +5,6 @@ def print_pattern():
         print("new print" * size)
         print("a new branch is created")
         print("a new branch is created")
-        print("from main")
+        print("from mainx2")
 
 print_pattern()
